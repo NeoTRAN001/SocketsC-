@@ -1,0 +1,6 @@
+/home/AR/Projects/FirstClientSocket/FirstClientSocket/bin/Debug/FirstClientSocket.exe
+/home/AR/Projects/FirstClientSocket/FirstClientSocket/bin/Debug/FirstClientSocket.pdb
+/home/AR/Projects/FirstClientSocket/FirstClientSocket/obj/x86/Debug/FirstClientSocket.csprojAssemblyReference.cache
+/home/AR/Projects/FirstClientSocket/FirstClientSocket/obj/x86/Debug/FirstClientSocket.csproj.CoreCompileInputs.cache
+/home/AR/Projects/FirstClientSocket/FirstClientSocket/obj/x86/Debug/FirstClientSocket.exe
+/home/AR/Projects/FirstClientSocket/FirstClientSocket/obj/x86/Debug/FirstClientSocket.pdb
